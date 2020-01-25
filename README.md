@@ -1,5 +1,5 @@
 # test dumbways
-soal no 1 menggunakan for dan if.
+soal no 1 menggunakan for dan if. <br>
 soal no 2 menggunakan sort untuk membentuk array baru.
 soal no 3 menggunakan fungsi 
 -Strlen = untuk menghitung panjang string
