@@ -4,7 +4,7 @@ arrayfunction($var);
 function arrayfunction($a) {
         sort($a);
         echo "huruf terkecil dan terbsesar adalah <br>";
-        echo ("['".$a[0]."','".$a[count($a)-1]."']");
+        echo ("[".$a[0].",".$a[count($a)-1]."]");
 }
 
 echo "<br>";
@@ -15,7 +15,7 @@ arrayfunctions($var);
 function arrayfunctions($a) {
         sort($a);
         echo "huruf terkecil dan terbsesar data lain adalah <br>";
-        echo ("['".$a[0]."','".$a[3]."']");
+        echo ("[".$a[0].",".$a[3]."]");
 }
 
 ?>
