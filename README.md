@@ -1,6 +1,7 @@
 # test dumbways
 soal no 1 menggunakan for dan if.
-soal no 2 menggunakan fungsi 
+soal no 2 menggunakan sort untuk membentuk array baru.
+soal no 3 menggunakan fungsi 
 -Strlen = untuk menghitung panjang string
 -Substr = digunakan untuk memotong string, atau mengambil sebagian nilai dari sebuah string.
 
