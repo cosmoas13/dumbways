@@ -1,8 +1,9 @@
 # test dumbways
-soal no 1 menggunakan for dan if.
-soal no 2 menggunakan fungsi 
--Strlen = untuk menghitung panjang string
--Substr = digunakan untuk memotong string, atau mengambil sebagian nilai dari sebuah string.
+soal no 1 menggunakan for dan if. <br>
+soal no 2 menggunakan sort untuk membentuk array baru. <br>
+soal no 3 menggunakan fungsi <br>
+-Strlen = untuk menghitung panjang string <br>
+-Substr = digunakan untuk memotong string, atau mengambil sebagian nilai dari sebuah string.<br>
 
 soal no 4 untuk query dapat dilihat pada gambar 01 - 03.
 program baru bisa menampilkan data yang di insert secara manual.
